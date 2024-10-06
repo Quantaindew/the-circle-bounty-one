@@ -38,7 +38,7 @@ Late submissions will not be considered. No exceptions.
 
 All the resources you need, including the GitHub repo, Figma design, and more, are available on our Notion page:
 
-[The Circle Bounty Resources](https://www.notion.so/The-Circle-Bounty-ecaaa455dadc46129fe45b35f7038ec2)
+[The Circle Bounty Resources](https://evanescent-arch-6e8.notion.site/The-Circle-Bounty-ecaaa455dadc46129fe45b35f7038ec2)
 
 ## 🚀 How to Participate:
 
