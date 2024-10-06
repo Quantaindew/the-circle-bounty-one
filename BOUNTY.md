@@ -12,7 +12,6 @@ We're looking for accurate implementation and top-notch code quality. Only the b
   1. Code quality (clean, efficient, and well-structured)
   2. Accurate design implementation
   3. Functionality (smooth performance, no bugs)
-  4. Load time and performance optimization
 - 🖼️ **Assets**: Strict use of our provided assets only
 - 🌟 **Bonus**: TypeScript implementation (highly encouraged)
 - 🔗 **Deployment**: Live link required (e.g., GitHub Pages, Vercel)
