@@ -7,7 +7,7 @@ Attention React masters! We're on a quest to find the ONE developer who can ace 
 We're looking for accurate implementation and top-notch code quality. Only the best will win. Here's what you need to know:
 
 - 🛠️ **Tech Stack**: React or any React-based framework
-- 🎨 **Design**: We'll provide a Figma design - your task is to bring it to life with 100% accuracy
+- 🎨 **Design**: Figma design provided - your task is to bring it to life with 100% accuracy
 - 🏅 **Judging Criteria** (in order of importance): 
   1. Code quality (clean, efficient, and well-structured)
   2. Accurate design implementation
@@ -34,13 +34,23 @@ Late submissions will not be considered. No exceptions.
 - Any deviation from the provided design will result in disqualification
 - We reserve the right to withhold the prize if no submission meets our high standards
 
+## 🔗 Essential Resources
+
+All the resources you need, including the GitHub repo, Figma design, and more, are available on our Notion page:
+
+[The Circle Bounty Resources](https://www.notion.so/The-Circle-Bounty-ecaaa455dadc46129fe45b35f7038ec2)
+
 ## 🚀 How to Participate:
 
-1. Clone the project repository (link to be provided)
-2. Implement the design with accurate accuracy
-3. Deploy your implementation (GitHub Pages, Vercel, etc.)
-4. Push your changes and submit a pull request before the deadline
-5. Include the live link in your pull request description
+1. Join our WhatsApp group (link available on the Notion page)
+2. Access all resources from the Notion page link above
+3. Clone the project repository
+4. Implement the design with accuracy
+5. Deploy your implementation (GitHub Pages, Vercel, etc.)
+6. Push your changes and submit a pull request before the deadline
+7. Include the live link in your pull request description
+
+**Important**: Joining the WhatsApp group is mandatory to enter this bounty. All official communications and updates will be shared there.
 
 **Remember**: We're only rewarding the cream of the crop. Bring your A-game!
 
